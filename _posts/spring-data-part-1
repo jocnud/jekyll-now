@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 # Customizing Spring Data MongoDB
 Spring Data has simplified the way we write data access layer. In just one steps we can get a full blown CRUD  implementation ready.
 
