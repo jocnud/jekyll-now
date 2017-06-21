@@ -1,4 +1,9 @@
 
+---
+layout: post
+title: You're up and running!
+---
+
 - ### Papers
     - Reading all from end to end with full comprehension will likely take more time than you have. I recommend being selective on papers and their sections.
     - [Love classic papers?](https://www.cs.cmu.edu/~crary/819-f09/)
