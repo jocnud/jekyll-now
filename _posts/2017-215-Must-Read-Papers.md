@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: You're up and running!
+title: Must read papers!
 ---
 
 - ### Papers
